@@ -60,3 +60,7 @@
 
 <p>Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.</p>
 <html>
+
+***
+Copyright of this README.md:
+`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`
