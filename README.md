@@ -43,5 +43,6 @@
 
 ***
 Copyright of this README.md:
-`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`
-〰 https://stackoverflow.com/questions/45638830/project-euler-23-python-non-abundant-sums
+`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)` \\
+〰 https://projecteuler.net/problem=23, \\
+   See also: https://stackoverflow.com/questions/45638830/project-euler-23-python-non-abundant-sums
